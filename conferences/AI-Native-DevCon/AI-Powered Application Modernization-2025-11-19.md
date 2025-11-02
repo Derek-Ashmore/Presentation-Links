@@ -10,6 +10,7 @@ This page contains Links used in my presentation.  Thanks for coming!
 * [12-Factor Principles](https://www.12factor.net/)
 * [Claude-Flow](https://github.com/ruvnet/claude-flow)
 * [Cockcroft - "Vibe Coding is so “Last Month…” — My First Agent Swarm Experience with claude-flow"](https://adrianco.medium.com/vibe-coding-is-so-last-month-my-first-agent-swarm-experience-with-claude-flow-414b0bd6f2f2)
+* [Mastering the Shift: Collaborating with Teams of Coding Agents](https://www.amazon.com/dp/B0FRPPSMJW)
 
 ## Orienteer Analysis Results
 * [Claude-Flow Instructions](https://github.com/Derek-Ashmore/Orienteer-2025-09-21/blob/master/instructions/Commands.md)
