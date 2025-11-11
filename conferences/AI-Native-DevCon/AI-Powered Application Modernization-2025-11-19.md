@@ -6,6 +6,8 @@ This page contains Links used in my presentation.  Thanks for coming!
 
 > You can reach me at [Derek Ashmore](https://www.linkedin.com/in/derekashmore/).
 
+The slide deck for the presentation is [here](AI-Powered-Application-Modernization-AI-Native-Dev-2025-11-19.pdf)
+
 ## External Links
 * [12-Factor Principles](https://www.12factor.net/)
 * [Claude-Flow](https://github.com/ruvnet/claude-flow)
