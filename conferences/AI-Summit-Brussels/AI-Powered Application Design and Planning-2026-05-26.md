@@ -6,7 +6,7 @@ This page contains Links used in my presentation.  Thanks for coming!
 
 > You can reach me at [Derek Ashmore](https://www.linkedin.com/in/derekashmore/).
 
-The slide deck for the presentation is [here](AI-Powered-Application-Modernization-AI-Native-Dev-2025-11-19.pdf)
+The slide deck for the presentation is [here](AI-Powered Application Design and Planning-Brussels-May-2026.pdf)
 
 ## External Links
 * [RuFlo](https://github.com/ruvnet/ruflo)
